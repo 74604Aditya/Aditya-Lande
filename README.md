@@ -14,16 +14,8 @@ Welcome to my GitHub profile! I'm an **Associate Software Engineer** at **Dreamc
   - **Security Vault App** – A secure app with authentication features
 
 ## 📬 How to Reach Me:
-- **LinkedIn**: [Aditya Lande](https://www.linkedin.com)
-- **Email**: aditya.lande@example.com
-
-## 💻 GitHub Stats
-
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityalande&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
-
-### Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=adityalande&langs_count=10&theme=radical)
-
+- **LinkedIn**: [Aditya Lande]([https://www.linkedin.com](https://www.linkedin.com/in/aditya-lande/))
+- **Email**: adityalande45@gmail.com
 ---
 
 ## 🚀 Current Projects:
